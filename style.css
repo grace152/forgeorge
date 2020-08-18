@@ -1,1 +1,9 @@
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body {
+  font-family: Raleway;
+  background: #191970;
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 3
+}
